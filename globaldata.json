@@ -1,0 +1,12 @@
+{
+    "gmail":
+    {
+        "url": "https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+    } ,
+    
+    "logincredentials":
+    {
+        "username": "mohitsingh18987@gmail.com",
+        "password": "hellllkadjso"
+    }
+}
